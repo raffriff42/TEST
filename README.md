@@ -1,2 +1,2 @@
 # TEST
-temp repo
+Temporary repo for learning how Git repos work
